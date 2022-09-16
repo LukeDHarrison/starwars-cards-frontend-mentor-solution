@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/LukeDHarrison/starwars-cards-frontend-mentor-solution)
-- Live Site URL: [live site URL](https://starwars-cards-frontend-mentor-solution.netlify.app/)
+- Live Site URL: [live site URL](https://starwars-cards-fm-solution.netlify.app/)
 
 ## My process
 
